@@ -27,4 +27,4 @@ Two simple condition :
 * you can user groups that can view the history of other users .
 * you can enter number of items in history page
   
-   ## More details : [Viewed Threads History Plugin](https://community.mybb.com/thread-237165.html)
+## More details : [Viewed Threads History Plugin](https://community.mybb.com/thread-237165.html)
